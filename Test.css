@@ -1,0 +1,72 @@
+h1
+{
+    text-decoration: blink;
+}
+.right
+{
+    text-align: right;
+}
+.left
+{
+    text-align: left;
+}
+.center
+{
+    text-align: center;
+}
+.inherit
+{
+    font-style: inherit;
+}
+.italic
+{
+    font-style: italic;
+}
+.normal
+{
+    font-style: normal;
+}   
+.bold
+{
+    font-weight: bold;
+}
+.underline
+{
+    text-decoration: underline;
+}
+.line-through
+{
+    text-decoration: line-through;
+}
+.overline
+{
+    text-decoration: overline;
+}
+.blink
+{
+    text-decoration: blink;
+}
+.wavy
+{
+    text-decoration: wavy;
+}
+.none
+{
+    text-decoration: none;
+}
+.dashed
+{
+    text-decoration: dashed; 
+}
+.doted
+{
+    text-decoration: dotted;
+}
+.double
+{
+    text-decoration: double;
+}
+.blink
+{
+    text-decoration: blink;
+}
